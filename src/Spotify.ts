@@ -16,7 +16,7 @@ export function logoutSpotify() {
 // Handles Spotify authentication and API requests using PKCE and the new redirect URI rules
 
 const clientId = '6eb953900ba04870840625c591dc156b'; // Replace with your Spotify app client ID
-const redirectUri = 'http://127.0.0.1:5173/callback'; // Must match Spotify dashboard
+const redirectUri = 'https://jamminsongs.netlify.app/callback'; // Must match Spotify dashboard
 const scopes = [
   'playlist-modify-public',
   'playlist-modify-private',
