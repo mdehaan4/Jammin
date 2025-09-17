@@ -1,0 +1,19 @@
+
+.search-login-message {
+  color: #e74c3c;
+  font-size: 1.1rem;
+  margin-top: 1em;
+  font-weight: bold;
+}
+
+.track:hover {
+  transform: scale(1.02); 
+}
+
+h3 {
+  color: black;
+}
+
+.track p {
+  margin: 5px 0; 
+}
